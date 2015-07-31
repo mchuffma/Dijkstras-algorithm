@@ -1,0 +1,113 @@
+Albany
+Albany
+Albuquerque
+Atlanta
+Augusta
+Austin
+Bakersfield
+Baltimore
+Baton Rouge
+Beaumont
+Boise
+Boston
+Buffalo
+Calgary
+Charlotte
+Chattanooga
+Chicago
+Cincinnati
+Cleveland
+Colorado Springs
+Columbus
+Dallas
+Dayton
+Daytona Beach
+Denver
+Des Moines
+El Paso
+Eugene
+Europe
+Ft Worth
+Fresno
+Grand Junction
+Green Bay
+Greensboro
+Houston
+Indianapolis
+Jacksonville
+Japan
+Japan
+Kansas City
+Key West
+Lafayette
+Lake City
+Laredo
+Las Vegas
+Lincoln
+Little Rock
+Los Angeles
+Macon
+Medford
+Memphis
+Mexia
+Mexico
+Miami
+Midland
+Milwaukee
+Minneapolis
+Modesto
+Montreal
+Nashville
+New Haven
+New Orleans
+New York
+Norfolk
+Oakland
+Oklahoma City
+Omaha
+Orlando
+Ottawa
+Pensacola
+Philadelphia
+Phoenix
+Pittsburgh
+Point Reyes
+Portland
+Providence
+Provo
+Raleigh
+Redding
+Reno
+Richmond
+Rochester
+Sacramento
+Salem
+Salinas
+Salt Lake City
+San Antonio
+San Diego
+San Francisco
+San Jose
+San Luis Obispo
+Santa Fe
+Sault Ste Marie
+Savannah
+Seattle
+St Louis
+Stamford
+Stockton
+Tallahassee
+Tampa
+Thunder Bay
+Toledo
+Toronto
+Tucson
+Tulsa
+UK
+UK
+Vancouver
+Washington
+West Palm Beach
+Wichita
+Winnipeg
+Yuma
